@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731295379067",
+    "project_id": "quizapp-nafis",
+    "storage_bucket": "quizapp-nafis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731295379067:android:c62438bedf30d3c025bcde",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_nafis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChaAsAO8fqFYdYlx0Z4_Mb2-1jzI66qRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
