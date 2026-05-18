@@ -71,4 +71,11 @@ dependencies {
     implementation(libs.google.location)
     implementation(libs.glide)
     implementation(libs.okhttp)
+
+    // CameraX dependencies
+    val cameraVersion = "1.3.0"
+    implementation("androidx.camera:camera-core:$cameraVersion")
+    implementation("androidx.camera:camera-camera2:$cameraVersion")
+    implementation("androidx.camera:camera-lifecycle:$cameraVersion")
+    implementation("androidx.camera:camera-view:$cameraVersion")
 }

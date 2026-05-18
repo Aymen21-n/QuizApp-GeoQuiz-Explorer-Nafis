@@ -16,3 +16,6 @@ local.properties
 secrets.properties
 local.properties
 *.properties
+app/google-services.json
+geoquiz_backend/__pycache__/
+geoquiz_backend/faces_db.json
